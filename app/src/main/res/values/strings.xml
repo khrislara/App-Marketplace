@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarketPlace</string>
+    <string name="detalle_titulo">Detalles del Producto</string>
+    <string name="imagen_producto">Imagen detallada del producto</string>
+    <string name="producto_titulo">Producto en Venta: Ejemplo de Alta Calidad</string>
+    <string name="producto_precio">$ 99.990 CLP</string>
+    <string name="etiqueta_vendedor">Vendedor:</string>
+    <string name="nombre_vendedor">Nombre de Usuario</string>
+    <string name="etiqueta_descripcion">Descripción:</string>
+    <string name="producto_descripcion">Modelo 2024, casi nueva. Perfecta para la ciudad.</string>
+    <string name="contactar_vendedor">Contactar Vendedor</string>
+
+</resources>
